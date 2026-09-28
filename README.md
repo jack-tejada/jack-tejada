@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jack Tejada (Adriel) 👋
+# ¡Hola! Soy Jack Tejada 
 
 Desarrollador de software enfocado en **Frontend moderno**, **desarrollo móvil Android** y **automatización con Agentes de Inteligencia Artificial (MCP)**. Me apasiona construir aplicaciones rápidas, accesibles y con arquitecturas limpias y escalables.
 
