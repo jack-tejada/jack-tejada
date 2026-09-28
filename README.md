@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jack Tejada (Adriel)</h1>
+  <h1>Jack Tejada Huayta</h1>
   <p><strong>Estudiante de Ingeniería de Software con Inteligencia Artificial en SENATI</strong></p>
   <p>Interesado en el desarrollo web y móvil, arquitectura de software, bases de datos y la integración práctica de modelos de inteligencia artificial.</p>
 </div>
