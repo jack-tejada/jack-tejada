@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>¡Hola! Soy Jack Tejada (Adriel) 👋</h1>
+  <h1>Jack Tejada (Adriel)</h1>
   <p><strong>Estudiante de Ingeniería de Software con Inteligencia Artificial en SENATI</strong></p>
   <p>Interesado en el desarrollo web y móvil, arquitectura de software, bases de datos y la integración práctica de modelos de inteligencia artificial.</p>
 </div>
 
 ---
 
-### 👤 Sobre mí
+### Sobre mí
 
 Me caracterizo por mi capacidad de aprendizaje constante, adaptabilidad a nuevos entornos tecnológicos y un enfoque práctico orientado a construir software ordenado, eficiente y funcional.
 
-Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión de bases de datos y soluciones asistidas por IA, con el objetivo de contribuir activamente en proyectos de impacto y sumar valor en equipos de desarrollo.
+Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión de bases de datos y soluciones con IA, con el objetivo de contribuir activamente en proyectos de impacto y sumar valor en equipos de desarrollo de software.
 
 ---
 
-### 💻 Stack Tecnológico & Herramientas
+### Stack Tecnológico
 
-#### **Frontend & Web**
+#### Frontend & Web
 <p>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -27,7 +27,7 @@ Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión d
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-#### **Móvil & Backend**
+#### Móvil & Backend
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -38,7 +38,7 @@ Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión d
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
-#### **Bases de Datos & Cloud**
+#### Bases de Datos & Despliegue
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -47,7 +47,7 @@ Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión d
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-#### **QA, Rendimiento & Agentes de IA**
+#### QA & Integración
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Lighthouse" />
@@ -59,24 +59,10 @@ Actualmente fortalezco mis habilidades en desarrollo multiplataforma, gestión d
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos Destacados
 
-- **[glow-studio](https://github.com/jack-tejada/glow-studio)**: Estudio interactivo y portafolio web en Astro + Tailwind CSS, optimizado en rendimiento, accesibilidad WCAG AA y arquitectura de islas.
+- **[glow-studio](https://github.com/jack-tejada/glow-studio)**: Estudio interactivo y portafolio web en Astro y Tailwind CSS, optimizado en rendimiento, accesibilidad WCAG AA y arquitectura de islas.
 - **[test-figma](https://github.com/jack-tejada/test-figma)**: Pipeline automatizado de QA visual y tokens de diseño entre Figma y aplicaciones web con Playwright y TalkToFigma MCP.
 - **[ecolim-2](https://github.com/jack-tejada/ecolim-2)**: Aplicación Android nativa (Java) para la gestión, segregación y registro de residuos reciclables en empresas.
 - **[spring-biblioteca-gestion](https://github.com/jack-tejada/spring-biblioteca-gestion)**: Sistema backend para gestión de bibliotecas con Spring Boot 3, Spring Data JPA y PostgreSQL.
-- **[demo-agentes](https://github.com/jack-tejada/demo-agentes)**: Entorno experimental con Vite + React 19 para flujos y protocolos de integración con agentes IA (MCP).
-
----
-
-### 🛠️ Filosofía de Desarrollo
-
-- **Simplicidad & YAGNI:** Priorizar soluciones limpias y código directo sin caer en sobreingeniería.
-- **Calidad & Rendimiento:** Atención rigurosa a métricas Core Web Vitals, tiempos de carga y accesibilidad.
-- **Flujos asistidos por IA:** Automatización de testing continuo, especificaciones y diseño iterativo mediante agentes inteligentes.
-
----
-
-<div align="center">
-  <i>"Construyendo software con propósito, simplicidad y atención al detalle."</i>
-</div>
+- **[demo-agentes](https://github.com/jack-tejada/demo-agentes)**: Entorno experimental con Vite y React 19 para flujos y protocolos de integración con agentes IA (MCP).
