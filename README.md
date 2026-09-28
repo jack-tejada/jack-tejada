@@ -4,7 +4,7 @@ Desarrollador de software enfocado en **Frontend moderno**, **desarrollo móvil 
 
 ---
 
-### 🚀 Áreas de Enfoque & Tecnologías
+### Áreas de Enfoque & Tecnologías
 
 - **Frontend & Web:** Astro, React 19, Tailwind CSS (v3 / v4), TypeScript, Svelte, Vite.
 - **Móvil & Backend:** Android nativo (Java & Kotlin), Spring Boot (Java), PHP (MVC, N-Capas), Node.js, Bun.
@@ -14,7 +14,7 @@ Desarrollador de software enfocado en **Frontend moderno**, **desarrollo móvil 
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos Destacados
 
 - **[glow-studio](https://github.com/jack-tejada/glow-studio):** Estudio interactivo y portafolio construido con Astro y Tailwind CSS, optimizado en rendimiento, accesibilidad WCAG AA y arquitectura de islas.
 - **[test-figma](https://github.com/jack-tejada/test-figma):** Pipeline de QA visual y tokens entre Figma y la web con Playwright y TalkToFigma MCP.
@@ -24,14 +24,4 @@ Desarrollador de software enfocado en **Frontend moderno**, **desarrollo móvil 
 
 ---
 
-### 🛠️ Filosofía de Trabajo
 
-- **YAGNI & Simplicidad:** Priorizar soluciones limpias y código sin sobreingeniería.
-- **Rendimiento primero:** Monitoreo constante de métricas Core Web Vitals, carga diferida y optimización de recursos.
-- **Desarrollo asistido por agentes:** Integración de herramientas avanzadas para testing continuo, diseño iterativo y documentación automatizada.
-
----
-
-<p align="center">
-  <i>"Construyendo software con propósito, simplicidad y atención al detalle."</i>
-</p>
